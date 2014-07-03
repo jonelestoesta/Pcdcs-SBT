@@ -1,0 +1,2 @@
+Trigger output(1:Enable 0:Disable),Trigger Address,Response Address,Start Address,Number of Outputs,Output Directory
+0,M0S1,/M0S1,WR100S1,16,./TRIGGER
